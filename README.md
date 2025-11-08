@@ -1,10 +1,10 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Yuliana21212170/Practica4MSF)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Danielacg23/Practica4MSF1)
 
-# Práctica: Regeneración de glóbulos rojos [Sistema de EDOs]
+# Práctica 4: Regeneración de glóbulos rojos [Sistema de EDOs]
 
-## Información del estudiante
+## Información de la estudiante
 
-Jocelyn Yuliana Navarrete Avalos \[21212170]; l21212170@tectijuana.edu.mx
+Daniela Castillo Gonzalez \[22212251]; l22212251@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -37,13 +37,11 @@ El sistema se resolvió con los siguientes parámetros de gamma y beta:
 
 y con las siguientes condiciones iniciales:
 1. x1(0) = 
-   58.6372   59.1483   59.2364   59.2151   59.3852   58.4790   59.4474   59.4375   59.2830   59.2453;
+   59.2723   59.2470   59.1718   59.5004   58.5065   59.5066   58.6768   59.1665   59.0123   59.0315;
 2. x2(0) = 
-   43.7295   44.1106   44.1763   44.1604   44.2873   43.6115   44.3337   44.3263   44.2110   44.1829;
-3. x3(0) = 
-  879.5583  887.2248  888.5466  888.2266  890.7787  877.1855  891.7111  891.5625  889.2444  888.6794;
-
-
+   44.2031   44.1842   44.1282   44.3732   43.6320   44.3778   43.7590   44.1241   44.0092   44.0235;
+3.  x3(0) = 
+  889.0852  888.7048  887.5777  892.5056  877.5976  892.5993  880.1517  887.4970  885.1852  885.4718;
 
 Palabras clave: Globulo rojo; Eritropoyetina; Transfusión sanguínea; Modelo Matemático; Paciente.
 
